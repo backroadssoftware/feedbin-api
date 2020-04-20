@@ -1,2 +1,2 @@
-# feedbin-api
+# kotlin-feedbin-api
 Kotlin implementation of the feedbin-api
